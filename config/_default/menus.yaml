@@ -1,0 +1,17 @@
+leftnav:
+- identifier: e4826c12-895f-04b4-99c4-9b98474335e0
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 1319ffde-d0d1-e1a1-267a-a50f0f912d5d
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-notes
+  weight: 20
+- identifier: e3312a7a-ec87-9969-3a28-5e14aaba76b8
+  name: Case Studies
+  pageRef: /pages/case-studies
+  weight: 30
+- identifier: c719a05a-b4bd-1381-bc3d-bd9ae0ba26fb
+  name: Exercises
+  pageRef: /pages/exercises
+  weight: 40
