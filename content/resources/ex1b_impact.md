@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/cb7c836c63d51b9c890cfd924e697db3_ex1b_impact.xls
 file_size: 16019968
 file_type: application/vnd.ms-excel
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

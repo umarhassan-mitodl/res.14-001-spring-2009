@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/66ba6def105b5c9624ca1da6a78fc625_lecture8.pdf
 file_size: 364452
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
