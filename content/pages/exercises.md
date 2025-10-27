@@ -3,8 +3,6 @@ content_type: page
 description: 'Exercise 1A and B: Distributions and Impact, Exercise 2: The mechanics
   of simple random assignment using MS Excel?, and Exercise 3: Sample size calculation
   with clustered design.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Exercises
@@ -67,7 +65,7 @@ Exercise 3: Sample size calculation with clutstered design ({{% resource_link e2
 
 Exercise 3 ({{% resource_link 1860031f-0520-79cc-cafb-e89fa198b834 "XLS" %}})
 
-[Optimal Design](https://sites.google.com/site/optimaldesignsoftware/home) software is available from the University of Michigan
+{{% resource_link "70b0c0c4-e7c6-405d-ae70-6fc43fc2a007" "Optimal Design" %}} software is available from the University of Michigan
 
 
 {{< tdclose >}}
